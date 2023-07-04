@@ -1,5 +1,5 @@
 #import pytest
-import base
+from .. import base
 
 def test_ok():
     assert base.add(1, 1) == 2
