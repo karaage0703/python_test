@@ -1,2 +1,2 @@
-# pysen_test
-Test of pysen
+# python_test
+Test of python
